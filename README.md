@@ -1,3 +1,7 @@
+Face detection app, which upon registering and pasting image url, detects face on image using API and also counts number of entries for each user. Registration and sign in processes are located on node.js server using express and communicating with postgreSQL database.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
